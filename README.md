@@ -1,4 +1,4 @@
-¿Te paguece guisible el nombre de Pijus Magníficus???
+¿Te paguece guisible el nombre de Pijus Magníficus??
 ![EcV1pH1](https://user-images.githubusercontent.com/114620864/219907428-3bd85bb2-e6a3-483b-b2dc-69b1aec415c4.gif)
 
 <!--
