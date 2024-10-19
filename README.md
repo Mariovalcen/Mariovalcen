@@ -25,5 +25,5 @@ I enjoy learning new technologies and am continuously improving my skills in bot
 ---
 
 📫 **How to reach me**:
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mario-valdes-centurion)
+- LinkedIn: [Mario_valdes](https://linkedin.com/in/mario-valdes-centurion)
 
