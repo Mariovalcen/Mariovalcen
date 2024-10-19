@@ -1,5 +1,10 @@
 # Welcome to my GitHub Profile 👋
 
+¿Te paguece guisible el nombre de Pijus Magníficus?
+
+![Cybersecurity GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW0ybzF2b2hycjB4cWRnaDJyZDF1ODFsbG5rZGdmdGFzbXBkdXE0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qcgtyllMthBL2/giphy.gif)
+
+
 Hi! I'm a **Full Stack Web Developer** with a passion for creating dynamic and user-friendly web applications. Over the past years, I've gained experience working with a variety of technologies on both the frontend and backend.
 
 Recently, I've started focusing my attention and studies on the exciting world of **Cybersecurity**. I'm particularly interested in areas such as **network security**, **ethical hacking**, and **data protection**, aiming to build a strong foundation in securing web applications and protecting sensitive data.
@@ -22,6 +27,3 @@ I enjoy learning new technologies and am continuously improving my skills in bot
 📫 **How to reach me**:
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/mario-valdes-centurion)
 
-¿Te paguece guisible el nombre de Pijus Magníficus?
-
-<div>![EcV1pH1](https://user-images.githubusercontent.com/114620864/219907428-3bd85b</div>
