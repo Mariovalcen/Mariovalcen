@@ -37,6 +37,6 @@ After working on full stack web development projects, I began exploring how appl
 ## Let's connect!
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mario-valdes-centurion)
-- 🌐 [My Website](https://marwire.eu) *(si ya está online, si no, omítelo)*
+- 🌐 [My Website](https://marwire.eu)
 
 
